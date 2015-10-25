@@ -4,7 +4,7 @@
     "fb": {
         "appID": "182663505405113",
         "appSecret": "fe6dea29805af8f49d3b864bf83d4a3f",
-        "callBackURL": "http://dannyschatbox.herokuapp.com/auth/facebook/callback"
+        "callBackURL": "https://dannyschatbox.herokuapp.com/auth/facebook/callback"
     },
     "host": "http://dannyschatbox.herokuapp.com/"
 }
