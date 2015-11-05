@@ -6,5 +6,5 @@
         "appSecret": "fe6dea29805af8f49d3b864bf83d4a3f",
         "callBackURL": "https://dannyschatbox.herokuapp.com/auth/facebook/callback"
     },
-    "host": "https://dannyschatbox.herokuapp.com/"
+    "host": "https://dannyschatbox.herokuapp.com"
 }
